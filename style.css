@@ -1,0 +1,72 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-item{
+    width: 50%;
+  
+}
+
+
+nav {
+    border: 2px solid green;
+ 
+
+}
+
+.nav-left {
+    border: 2px solid green;
+}
+
+.nav-right {
+    border: 2px solid green;
+}
+
+ul {
+    border: 2px solid green;
+}
+
+li {
+    border: 2px solid green;
+}
+
+header {
+    border: 2px solid orange;
+  
+}
+
+#duck {
+    border: 2px solid yellow;
+}
+
+.text {
+    border: 2px solid yellow;
+}
+
+.text p {
+    border: 2px solid yellow;
+}
+
+.duck {
+    border: 2px solid yellow;
+}
+
+#emergency {
+    border: 2px solid blue;
+}
+
+.grid-container {
+    border: 2px solid blue;
+
+}
+
+.grid-item {
+    border: 2px solid pink;
+
+}
+
+footer {
+    border: 2px solid red;
+ 
+}
